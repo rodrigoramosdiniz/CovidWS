@@ -1,0 +1,6 @@
+br\ifms\tsi\ipli\servidorcovid_19\Covid_19.class
+br\ifms\tsi\ipli\servidorcovid_19\servidor.class
+br\ifms\tsi\ipli\servidorcovid_19\CovidDao.class
+br\ifms\tsi\ipli\servidorcovid_19\CovidService.class
+br\ifms\tsi\ipli\servidorcovid_19\Covid_19_.class
+br\ifms\tsi\ipli\servidorcovid_19\FabricaGerenciadordeEntidades.class

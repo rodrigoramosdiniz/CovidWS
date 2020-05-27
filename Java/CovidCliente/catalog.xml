@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8000/covid?WSDL" uri="xml-resources/web-service-references/covid/wsdl/localhost_8000/covid.wsdl"/>
+    <system systemId="http://localhost:8000/covid?xsd=1" uri="xml-resources/web-service-references/covid/wsdl/localhost_8000/covid.xsd_1.xsd"/>
+</catalog>
